@@ -24,6 +24,6 @@ It provides a solid foundation for further enhancements such as deep learning or
 ---
 
 ## Author
-**Tanushree Dave**
+**Darshika Yadav**
 
 Machine Learning Project – PwSkills
